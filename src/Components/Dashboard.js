@@ -23,7 +23,7 @@ export default class Dashboard extends Component {
         };
         console.log(this.props.match.params.session)
     }
-    /*****************************  Code Start List of function for getting access token and fetching list of display ****************************/
+    /***************************** Start Code Start List of function for getting access token and fetching list of display ****************************/
     async componentDidMount() {
         const values = queryString.parse(this.props.location.search)
         console.log(values.code);
