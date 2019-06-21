@@ -1,0 +1,38 @@
+.box{
+    height: 120px;
+    border: 1px solid;
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding-top: 37px;
+
+}
+.box-red{
+    height: 120px;
+    border: 1px solid;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 37px;
+
+}
+.col-sm-2{
+    padding: 0px;
+}
+.mybox{
+    width: 70%;
+    padding: 20px;
+    margin: 0 auto;
+    box-shadow: 2px 2px 2px 2px #CCB;
+}
+.playimg{
+   height: 30px;
+   width: 30px; 
+}
+.myButton
+{
+    background: transparent !important;
+    padding: 0px 10px;
+}
+/*#subgroupdis { display:none; }
+#screendis { display:none; }*/
