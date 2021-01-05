@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "http://35.200.234.207",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "axios-oauth-client": "^1.1.1",
     "axios-token-interceptor": "^0.1.0",
     "base-64": "^0.1.0",
